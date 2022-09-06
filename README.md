@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hello !! 👋
+
+- 🔭 I’m currently working on ...
+
+<img src="https://img.shields.io/badge/Python-83B81A?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/React-1AB7EA?style=flat-square&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
+
+
+- 🌱 I’m currently learning ...
+  * Design Pattern
+  * Typescript
+  * Computer Science
+
+
 
 <!--
 **shpark-personal/shpark-personal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
