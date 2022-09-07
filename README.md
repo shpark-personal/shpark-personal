@@ -13,7 +13,10 @@
   * Typescript
   * Computer Science
 
+### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!--
 **shpark-personal/shpark-personal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
