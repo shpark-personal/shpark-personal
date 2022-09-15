@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/shpark-personal/DesignPattern/pull/4) in [shpark-personal/DesignPattern](https://github.com/shpark-personal/DesignPattern)
-2. 💪 Opened PR [#4](https://github.com/shpark-personal/DesignPattern/pull/4) in [shpark-personal/DesignPattern](https://github.com/shpark-personal/DesignPattern)
-3. 🎉 Merged PR [#6](https://github.com/shpark-personal/CloneCoding/pull/6) in [shpark-personal/CloneCoding](https://github.com/shpark-personal/CloneCoding)
-4. 💪 Opened PR [#6](https://github.com/shpark-personal/CloneCoding/pull/6) in [shpark-personal/CloneCoding](https://github.com/shpark-personal/CloneCoding)
-5. 🎉 Merged PR [#3](https://github.com/shp1204/DesignPattern/pull/3) in [shp1204/DesignPattern](https://github.com/shp1204/DesignPattern)
+1. 🎉 Merged PR [#7](https://github.com/shpark-personal/CloneCoding/pull/7) in [shpark-personal/CloneCoding](https://github.com/shpark-personal/CloneCoding)
+2. 🎉 Merged PR [#4](https://github.com/shpark-personal/DesignPattern/pull/4) in [shpark-personal/DesignPattern](https://github.com/shpark-personal/DesignPattern)
+3. 💪 Opened PR [#4](https://github.com/shpark-personal/DesignPattern/pull/4) in [shpark-personal/DesignPattern](https://github.com/shpark-personal/DesignPattern)
+4. 🎉 Merged PR [#6](https://github.com/shpark-personal/CloneCoding/pull/6) in [shpark-personal/CloneCoding](https://github.com/shpark-personal/CloneCoding)
+5. 💪 Opened PR [#6](https://github.com/shpark-personal/CloneCoding/pull/6) in [shpark-personal/CloneCoding](https://github.com/shpark-personal/CloneCoding)
 <!--END_SECTION:activity-->
 
 <!--
