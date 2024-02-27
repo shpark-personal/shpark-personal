@@ -9,10 +9,9 @@
 
 
 - 🌱 I’m currently learning ...
-  * Design Pattern
+  * TDD, Object
   * Typescript
-  * Computer Science
-
+    
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
